@@ -96,4 +96,10 @@ Observe the responses | POST, GET, PUT, and DELETE.
 
 ---
 
+## License & copyright
+
+© Copyright (c) 2020 Daniel
+
+Licensed under the [mid License](LICENSE).
+
 
